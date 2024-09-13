@@ -1,0 +1,36 @@
+.container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.h1 {
+    font-size: 100px;
+    font-weight: bold;
+    font-family: 'recoleta', Arial, sans-serif; /* Use your custom font 'recoleta', fallback to Arial and then generic sans-serif */
+}
+
+@font-face {
+    font-family: 'recoleta';
+    src: url('../fonts/recoleta-regulardemo.otf') format('opentype'), /* .otf format */
+         url('../fonts/recoleta-regulardemo.woff2') format('woff2'), /* .woff2 format */
+         url('../fonts/recoleta-regulardemo.woff') format('woff'); /* .woff format */
+    font-weight: normal;
+    font-style: normal;
+}
+.logo{
+    width: 7vw;
+}
+
+#navbar{
+    margin-left: 7%;
+}
+
+#right-img{
+    width: 100%;
+    height: 100%;
+}
+
+.btn-success{
+    background: hsl(97.03deg 73.56% 65.88%) !important;
+    color: black !important;
+    border: 1px solid hsl(97.03deg 73.56% 65.88%) !important;
+}

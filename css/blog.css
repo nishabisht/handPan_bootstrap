@@ -1,0 +1,54 @@
+.logo{
+    width: 7vw;
+}
+
+#navbar{
+    margin-left: 7%;
+}
+.left-box{ 
+    width: 30vw;
+
+}
+.right-box{
+    width: 30vw;
+   
+}
+.input-group{
+    width: 50% !important;
+}
+.btn-success{
+    background: hsl(97.03deg 73.56% 65.88%)!important;
+    color: black !important;
+    border: 1px solid hsl(97.03deg 73.56% 65.88%) !important;
+}
+.border.border-success{
+    border: 1px solid hsl(97.03deg 73.56% 65.88%) !important;
+}
+.bg-success-subtle{
+    background: hsl(96, 13%, 70%) !important;
+}
+.btn-outline-success{
+    border: 1px solid hsl(97.03deg 73.56% 65.88%) !important;
+}
+.btn-outline-success:hover{
+    border: 1px solid hsl(97.03deg 73.56% 65.88%) !important;
+    background-color:  hsl(97.03deg 73.56% 65.88%) !important;
+    color: black !important;
+}
+
+.d-flex.flex-column.m-5.right-box {
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.d-flex.flex-column.m-3.p-3.bg-primary-subtle.left-box{
+    font-family: sans-serif;
+
+}
+.h1.py-2 {
+    font-size: 60px;
+    font-weight: bold;
+}
+.container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}

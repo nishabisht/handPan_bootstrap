@@ -1,0 +1,39 @@
+.container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.logo{
+    width: 7vw;
+}
+
+
+
+.fas .fa-search {
+    color: #333; /* Example color */
+    font-size: 20px; /* Example font size */
+    margin-left: 10px; /* Example margin for positioning */
+}
+
+.right-block{
+    width: 30vw;
+}
+
+.left-block{
+    width: 22vw;
+}
+
+.h1.right-block {
+    font-size: 7vh;
+}
+.control-label{
+    font-size: 14px;
+    font-weight: 500;
+}
+button.btn.btn-success.custom {
+    width: 100%;
+}
+.btn-success{
+    background: hsl(97.03deg 73.56% 65.88%) !important;
+    color: black !important;
+    border: 1px solid hsl(97.03deg 73.56% 65.88%) !important;
+}
