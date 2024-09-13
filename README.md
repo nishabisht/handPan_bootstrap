@@ -2,20 +2,20 @@
 
 <div>
 <h4>Home page</h4>
-<img src="/course/img/homepage.jpg">
+<img src="./img/homepage.jpg">
 </div>
 
 <div>
 <h4>Blog page</h4>
-<img src="/course/img/blogPage.jpg">
+<img src="/img/blogPage.jpg">
 </div>
 
 <div>
 <h4>Course page</h4>
-<img src="/course/img/coursePage.jpg">
+<img src="/img/coursePage.jpg">
 </div>
 
 <div>
 <h4>Signin page</h4>
-<img src="/course/img/signinPage.jpg">
+<img src="/img/signinPage.jpg">
 </div>
